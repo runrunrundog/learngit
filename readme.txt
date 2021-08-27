@@ -5,3 +5,17 @@ Git tracks changes of files.
 大头大头
 Creating a new branch is quick.
 Creating a new branch is quick AND simple.试试看解决冲突。
+
+
+
+
+
+
+
+
+
+
+
+
+
+我在feature1里面增加了这个88889
